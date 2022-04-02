@@ -2,7 +2,7 @@
 Coursera: Create Your First Web Application with Python and Flask
 A simple TODO list
 
-Execution
+## Execution
 ```
 python3 app.py
 ```
